@@ -131,3 +131,14 @@ table {
 #login-form input:focus {
   outline: none;
 }
+
+.status-bar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+a {
+  color: #2e363e;
+  text-decoration: none;
+}
