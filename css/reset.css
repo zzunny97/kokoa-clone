@@ -132,11 +132,12 @@ table {
   outline: none;
 }
 
-.status-bar {
+/* .status-bar {
   position: fixed;
   top: 0;
   width: 100%;
-}
+  box-sizing: border-box;
+} */
 
 a {
   color: #2e363e;
